@@ -34,7 +34,7 @@ Control a growing snake to eat food and avoid collisions with walls or the snake
 1. Ensure Python 3 is installed.
 2. Clone the repo:
 
-   git clone https://github.com/your-username/snake-game.git
+   git clone https://github.com/DeityRain/snake-game.git
 
 3. Navigate to the source folder:
 
